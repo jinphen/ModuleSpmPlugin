@@ -260,6 +260,7 @@ function popPathSeqment(pathInArray) {
     return s;
 }
 
+//from webpack/enhanced-resolve
 function createInnerCallback(callback, options, message) {
     var log = options.log;
     if(!log) {

@@ -1,0 +1,24 @@
+{
+  "name": "webpack-spm-plugin",
+  "version": "1.0.0",
+  "description": "webpack spm plugin",
+  "main": "ModuleSpmPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinphen/ModuleSpmPlugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "spm",
+    "plugin"
+  ],
+  "author": "jinphen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinphen/ModuleSpmPlugin/issues"
+  },
+  "homepage": "https://github.com/jinphen/ModuleSpmPlugin"
+}
