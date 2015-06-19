@@ -1,4 +1,4 @@
-
+//some code from webpack
 var semver = require('semver');
 
 function ModulesSpmPlugin(moduleType) {
@@ -250,7 +250,7 @@ function filterDirAsync(path, callback) {
     });
 }
 
-//from webpack/enhanced-resolve test bower
+//from webpack/enhanced-resolve
 function popPathSeqment(pathInArray) {
     var i = pathInArray[0].lastIndexOf("/"),
         j = pathInArray[0].lastIndexOf("\\");
